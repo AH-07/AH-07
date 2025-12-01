@@ -8,7 +8,7 @@ I’m comfortable in Figma, and I mainly work in Adobe Illustrator and Photoshop
 My preferred tools are VS Code, Git/GitHub, and Illustrator. Right now, I'm dedicated to improving as a front-end developer and expanding my JavaScript knowledge.
 
 If you’d like to connect or collaborate, feel free to reach out:
-Email:
-<!--make one-->
+Email: ah.designdev@gmail.com
+
 
 
