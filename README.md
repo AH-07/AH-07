@@ -1,14 +1,9 @@
-## Hi there 👋
-I'm Ayyub, a self-taught developer learning through YouTube and online resources. I'm currently focused on mastering JavaScript and building projects to grow my front-end skills.
-I learned HTML & CSS through SuperSimpleDev and enjoy creating interfaces that are clear, well-structured, and visually intentional.
+# Hi there 👋
 
-I come from a Graphic Design background — GCSEs and A Levels — which gives me a strong understanding of layout, typography, and visual hierarchy.
-I’m comfortable in Figma, and I mainly work in Adobe Illustrator and Photoshop for design tasks.
+I'm Ayyub, a self-taught front-end developer with a background in Graphic Design (GCSEs and A Levels). I combine a strong eye for layout, typography, and visual hierarchy with hands-on development skills.
 
-My preferred tools are VS Code, Git/GitHub, and Illustrator. Right now, I'm dedicated to improving as a developer and expanding my JavaScript knowledge.
+I completed the SuperSimpleDev HTML, CSS & JavaScript courses, building projects along the way including an Amazon clone and a YouTube clone. I'm currently creating a live website for a real organisation as my first independent project.
 
-If you’d like to connect or collaborate, feel free to reach out:
-Email: ah.designdev@gmail.com
+My design toolkit includes Figma, Adobe Illustrator, and Photoshop. On the dev side I work with HTML, CSS, JavaScript, VS Code, and Git/GitHub.
 
-
-
+Always open to connecting or collaborating — feel free to reach out: ah.designdev@gmail.com
